@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "57f209ea9d59729494c5bd4d",
+  "owner": "yrpbpx",
+  "repo": "page-7124b75176c0fdb8585d9f36",
+  "title": "飞马",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7124b75176c0fdb8585d9f36",
+      "a": "飞马",
+      "b": "",
+      "entity": "飞马",
+      "brand": "飞马",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4851f54b07e71545f1f63dcdd4ea324e506b0dd0d5bf990675628fa122704d4e",
+      "content": {
+        "keyword1": "飞马",
+        "keyword2": "",
+        "primary_entity": "飞马",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "飞马是提供稳定高速连接的专业机场VPN服务商，本页介绍套餐方案、使用场景、操作指南及多端客户端下载，助您轻松实现网络加速与流媒体解锁。",
+          "AI_DESCRIPTION": "飞马是提供稳定高速连接的专业机场VPN服务商，本页介绍套餐方案、使用场景、操作指南及多端客户端下载，助您轻松实现网络加速与流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#cce7f0;font-size:16px;line-height:1.65;overflow-x:hidden}header{background:#0a2540;padding:12px 16px;border-bottom:3px solid #00d4ff;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center}.logo{font-size:1.5rem;font-weight:700;color:#00e5ff}nav{display:flex;flex-wrap:wrap;gap:8px}nav a{color:#b3e5fc;padding:6px 10px;font-size:0.95rem}main{max-width:1080px;margin:0 auto;padding:20px 16px}h1{font-size:1.7rem;color:#00e5ff;text-align:center;margin:10px 0 20px;line-height:1.3}h2{font-size:1.35rem;color:#4fc3f7;margin:28px 0 14px;padding-left:12px;border-left:4px solid #00e5ff}h3{font-size:1.1rem;color:#80deea;margin:16px 0 8px}p,li{margin-bottom:10px}.intro-grid{display:grid;grid-template-columns:1fr;gap:16px}@media(min-width:700px){.intro-grid{grid-template-columns:1fr 1fr}}.plan-wrap{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin:20px 0}.card{background:#0c2744;border:1px solid #1976d2;border-radius:6px;padding:20px;flex:1 1 260px;max-width:320px}.card.featured{border:2px solid #00e5ff;background:#0a3050}.card h3{margin-top:0;color:#00e5ff}.price{font-size:1.5rem;font-weight:700;color:#00e5ff;margin:8px 0}.annual{font-size:0.9rem;color:#81d4fa}ul.feats{list-style:none;margin-top:12px}ul.feats li{padding:4px 0 4px 20px;position:relative}ul.feats li:before{content:\"▸\";position:absolute;left:0;color:#00e5ff}.rec{display:inline-block;background:#00e5ff;color:#071422;font-size:0.75rem;padding:2px 8px;border-radius:3px;margin-bottom:8px;font-weight:700}.scenes{display:grid;grid-template-columns:1fr;gap:12px}@media(min-width:640px){.scenes{grid-template-columns:repeat(3,1fr)}}.scene{background:#0c2744;padding:16px;border-radius:6px}.clients{display:grid;grid-template-columns:1fr 1fr;gap:12px}@media(max-width:500px){.clients{grid-template-columns:1fr}}.client-box{background:#0c2744;padding:12px;border-left:3px solid #00e5ff}details{background:#0c2744;margin:10px 0;border-radius:4px;border:1px solid #1565c0}summary{padding:12px 16px;font-weight:600;color:#4dd0e1}details p{padding:0 16px 14px;color:#b3e5fc}footer{background:#05101c;padding:24px 16px;margin-top:40px;border-top:2px solid #00d4ff;font-size:0.9rem}.sitemap ul{list-style:none;display:flex;flex-wrap:wrap;gap:10px;margin:10px 0}.sitemap a{color:#81d4fa}.ad-box{background:#0a3050;padding:12px;margin:16px 0;text-align:center;border:1px dashed #00e5ff;color:#80deea}.friends a{margin-right:12px;color:#4fc3f7}.copy{text-align:center;margin-top:16px;color:#78909c;font-size:0.85rem}</style><header><div class=\"logo\">飞马</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">指南</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a></nav></header><main><h1>飞马官方网站 · 机场VPN网络加速与客户端下载</h1><p>飞马致力于为用户提供安全、快速、可靠的科学上网与网络加速服务。作为专业的机场运营商，飞马整合优质国际带宽与专线资源，让您轻松访问全球内容、降低游戏延迟并保障跨境办公效率。本站为飞马唯一官方网站，提供最新套餐、订阅管理及全平台客户端下载指引。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"intro-grid\"><div><p>飞马品牌专注网络加速领域，团队持续优化传输协议与节点质量。我们以实际线路表现服务用户：高峰时段保持流畅、流媒体实现真解锁、游戏线路可满足竞技需求。</p><p>所有套餐支持订阅自动更新，节点出现波动时客户端可智能切换。飞马重视用户隐私，连接全程加密，不记录浏览日志。</p></div><div><p>选择飞马即选择稳定的长期服务。轻度用户可从基础版起步，重度使用与小团队可升级高带宽线路。旗舰版及以上提供优先工单支持，快速解决配置与线路疑问。</p></div></div></section><section id=\"plans\"><h2>套餐对比与价格</h2><p>根据实际流量、设备数量和线路需求选择方案。支持按月或年付，年付享有折扣。旗舰版平衡了流量、解锁能力与游戏优化，适合大多数个人用户。</p><div class=\"plan-wrap\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"feats\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><div class=\"rec\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"feats\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"feats\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>开通后立即生效，可在官网用户中心查看订阅链接、剩余流量并管理设备。更高定制需求请选择团队版。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scenes\"><div class=\"scene\"><h3>高清流媒体与海外影视</h3><p>旗舰版节点支持 Netflix、Disney+、YouTube 4K 等平台流畅播放，适合追剧、纪录片与语言学习，减少缓冲与地区限制。</p></div><div class=\"scene\"><h3>在线游戏与电竞加速</h3><p>IPLC 专线针对热门游戏降低延迟与丢包，亚洲服与欧美服均可获得更好体验，帮助保持操作跟手与连接稳定。</p></div><div class=\"scene\"><h3>远程办公、学术检索与开发</h3><p>稳定访问国际网站、代码托管、在线文档与 AI 工具。团队版可做分流策略，让工作流量走优质线路。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><p>飞马机场采用标准订阅模式，配置过程对新手友好，按步骤操作即可完成。</p><h3>选择套餐并完成开通</h3><p>对比套餐后完成支付，系统即时生成专属订阅链接。请妥善保存账号信息，不要将订阅地址分享给他人。</p><h3>下载并安装客户端</h3><p>根据设备类型选择兼容软件，安装完成后打开订阅管理功能。飞马兼容当前主流 Clash、V2Ray 及部分商业客户端。</p><h3>导入订阅并选择节点</h3><p>粘贴订阅 URL 并更新节点列表，测试延迟后选择合适线路连接。可开启规则模式实现国内外分流，或使用全局模式。</p><h3>日常维护建议</h3><p>保持客户端与订阅定期更新，遇到个别节点异常时切换其他线路。游戏玩家优先选用带 IPLC 标识的节点以获得更低延迟。</p></section><section id=\"download\"><h2>客户端下载指引</h2><p>请使用飞马用户中心提供的订阅，配合下列常用客户端。安装包请从各软件官方或开源仓库获取，飞马提供配置说明与兼容性说明。</p><div class=\"clients\"><div class=\"client-box\"><h3>Windows 客户端</h3><p>推荐 Clash Verge 或 v2rayN，导入订阅后可设置系统代理，支持规则与脚本。</p></div><div class=\"client-box\"><h3>macOS 客户端</h3><p>ClashX.Meta 或 Surge 体验良好，菜单栏可快速切换，适合长期挂机使用。</p></div><div class=\"client-box\"><h3>Android 客户端</h3><p>Clash Meta 及类似应用支持分应用代理，便于只加速指定软件以节省流量。</p></div><div class=\"client-box\"><h3>iOS 客户端</h3><p>Shadowrocket、Quantumult X 或 Stash，通过订阅一键更新节点，连接稳定。</p></div></div><p>Linux 环境可使用 clash 或 sing-box。更多图文与视频说明请在开通后登录飞马官网后台查看。下载与使用过程中请注意设备安全与软件来源。</p></section><section id=\"nodes\"><h2>节点与线路说明</h2><p>飞马运营覆盖香港、日本、新加坡、美国、英国等地的节点。亚太线路适合日常浏览与流媒体，跨洋线路适合大文件与特定服务。部分游戏优化线路采用内网专线，减少绕路带来的延迟。</p><p>我们持续监测节点负载与质量，及时调整。实际速度受用户本地网络、运营商路由及目标网站影响，建议多节点对比选择最优。团队用户可沟通定制路由需求。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>飞马官方网站如何购买套餐？支付后多久生效？</summary><p>在本站选择套餐完成支付后通常即时开通。订阅链接会出现在用户中心，复制到客户端即可使用。支付异常时可通过工单联系处理。</p></details><details><summary>飞马支持同时在线多少设备？超出限制怎么办？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新连接可能失败，可在用户中心解绑旧设备或升级套餐。同一订阅可多端导入但受数量限制。</p></details><details><summary>如何获取和更新机场订阅链接？</summary><p>登录飞马官网用户中心复制订阅地址。客户端中开启定时更新，即可自动同步最新节点，无需反复手动操作。</p></details><details><summary>流量用完后会怎样？如何续费或升级套餐？</summary><p>流量耗尽后加速会受到限制。可随时续费或升级，系统按剩余周期折算。建议根据月均用量选择，年付更划算。</p></details><details><summary>飞马节点能否解锁 Netflix、ChatGPT 等服务？</summary><p>旗舰版和团队版提供针对流媒体与常见 AI 服务优化的节点。可用性会随目标站点策略调整，我们会跟进优化线路。</p></details><details><summary>连接失败或网速不理想应如何处理？</summary><p>检查订阅是否最新、关闭其他代理、核对系统时间。尝试更换节点或协议。仍有问题请提交工单并附上客户端信息，方便技术排查。游戏请优先 IPLC 线路。</p></details><details><summary>怎样确认访问的是飞马官方网站？</summary><p>请通过可信途径进入并收藏本站。飞马不会主动索要额外密码。发现仿冒站点请工单反馈，避免订阅泄露。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"sitemap\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#nodes\">节点线路</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div class=\"ad-box\">广告：飞马欢迎与网络工具、教程及评测类网站开展合作，共同服务用户。</div><div class=\"friends\"><h3>友情链接</h3><p><a href=\"#\">加速器使用指南</a> <a href=\"#\">客户端配置教程</a> <a href=\"#\">流媒体观看技巧</a> <a href=\"#\">网络优化知识</a></p></div><p class=\"copy\">© 飞马官方网站 提供机场订阅、VPN网络加速与客户端下载信息服务</p></footer>",
+          "hash": "474b2e84c12ebbb72cadab86ac8b56c8ad48da9a8eaa9dc5e0526520d306335f",
+          "seo": {
+            "title": "飞马官方网站 - 高速VPN梯子加速器与机场订阅客户端下载",
+            "keywords": "飞马,飞马机场,飞马VPN,飞马官网,飞马客户端,VPN梯子,网络加速器,机场订阅,官方下载,科学上网",
+            "description": "飞马是提供稳定高速连接的专业机场VPN服务商，本页介绍套餐方案、使用场景、操作指南及多端客户端下载，助您轻松实现网络加速与流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xlyltd.cn",
+    "host": "p-127cb69cd8.xlyltd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "xlyltd.cn",
+      "url": "https://xlyltd.cn/",
+      "label": "LoxCloud",
+      "apex": "xlyltd.cn",
+      "kind": null,
+      "identity": "qe8uaxxpf/page-91807cf26c7b853e59c51c03"
+    },
+    {
+      "host": "boom-intelligent.cn",
+      "url": "https://boom-intelligent.cn/",
+      "label": "飞马",
+      "apex": "boom-intelligent.cn",
+      "kind": null,
+      "identity": "wfcywcta/page-6655b512a4195e4defb83acd"
+    },
+    {
+      "host": "brvqesp.cn",
+      "url": "https://brvqesp.cn/",
+      "label": "飞马",
+      "apex": "brvqesp.cn",
+      "kind": null,
+      "identity": "cwcqqj/page-aa552d95f1ad85d3e8987fca"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9438c54ca713784ac723aca49b51156c6a939ad45c446f30c539d069264fe0f9",
+    "sitemap.xml": "457d6248a4749c893ed8066c704fcf5e3cba69b27918e7a36b7a1f2c050c19d2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c2141afee9f4012277d95b1b288f99a59acb10e4635c73262add265a3553c26f",
+    "robots.txt": "615176c151ec1636fa4747f277451b186089f0e3811b9f575bbcd40a12a265bb",
+    "865d2f19cd3f22b653f36c19b6c766c8.txt": "8449596dc1edfb0642ce278a8757a8069495f673605ceb7761af9b34075b6aa7"
+  },
+  "revision": "50078e17d83f301ae194bb014d6c0e3cd1b11f467530fda5766609a829000b7f"
+}
